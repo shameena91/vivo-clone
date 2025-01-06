@@ -39,12 +39,8 @@ header .navbar{
      padding-top: 30px;
      width:100%;
      top:0;
-<<<<<<< HEAD
-     background-color: black;
-=======
-/*      background-color: transparent; */
      background-color:black;
->>>>>>> 4ae6cd341712b009637caf7824e92029293697de
+
      position:fixed;
      z-index: 300;
    
